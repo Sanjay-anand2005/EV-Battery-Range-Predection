@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Hugging Face cache
+.cache/
+~/.cache/huggingface/
+
+# Data (large files — use HF loading instead)
+*.csv
+*.parquet
+*.h5
+
+# Notebook outputs (optional — remove to keep outputs)
+# *.ipynb
+
+# Env files
+.env
