@@ -36,9 +36,9 @@ Drivers need a data-driven estimate — not a brochure number.
 - [x] Perform EDA to uncover key patterns and relationships in the EV dataset
 - [x] Analyze how battery capacity, vehicle weight, and driving conditions affect real-world range
 - [x] Clean and preprocess data (outliers, skewness)
-- [ ] Build and evaluate ML models (Linear Regression, Random Forest, XGBoost)
-- [ ] Identify the most influential features for accurate prediction
-- [ ] Deploy as a web app (Streamlit)
+- [x] Build and evaluate ML models (Linear Regression, Random Forest, XGBoost)
+- [x] Identify the most influential features for accurate prediction
+- [x] Deploy as a web app (Streamlit)
 
 ---
 
